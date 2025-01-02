@@ -1,2 +1,9 @@
 To install django, in the terminal type:
 pip3 install Django~=4.2.1
+
+To run the django server, in the terminal type:
+python3 manage.py runserver 
+(manage.py is the file name)
+
+To make a new app, in the terminal type:
+python3 manage.py startapp hello_world - (hello_world is the name of the file)
