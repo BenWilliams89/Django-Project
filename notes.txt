@@ -1,0 +1,2 @@
+To install django, in the terminal type:
+pip3 install Django~=4.2.1
